@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, Graph's Theory**
 
-- 🌱 I’m currently learning **Pytorch, OpenCV**
+- 🌱 I’m currently learning **Pytorch, OpenCV, CUDA**
 
 - 💬 Ask me about **Numerical methods**
 
