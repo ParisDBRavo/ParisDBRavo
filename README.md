@@ -1,6 +1,6 @@
 ![MasterHead align="center"](https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Paris Alejandro Davalos Bravo</h1>
-<h3 align="center">A passionate data science, mathematician and deep learning developer from Mexico</h3>
+<h3 align="center">A passionate back end developer, Dev Ops, data science, mathematician and deep learning developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.417ebee986aec41629278b1e04cfbfe9?rik=WTtA8f8o5uL7NQ&pid=ImgRaw&r=0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parisdbravo&label=Profile%20views&color=0e75b6&style=flat" alt="parisdbravo" /> </p>
 
