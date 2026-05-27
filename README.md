@@ -83,12 +83,9 @@ In the industry, I engineer production-ready distributed systems, scalable data 
 
 ---
 
-### 📊 GitHub Performance & Metrics
+### 📊 GitHub Metrics
 
 <div align="center">
-  <p><em>Real-time repository telemetry and activity trackers:</em></p>
-  
   <img src="https://img.shields.io/github/followers/parisdbravo?label=Followers&style=for-the-badge&color=005088&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/parisdbravo?label=Total%20Stars&style=for-the-badge&color=0e75b6&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/parisdbravo?label=Monthly%20Commits&style=for-the-badge&color=334155&logo=git" alt="Commit Activity" />
 </div>
