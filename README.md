@@ -55,7 +55,7 @@ In the industry, I engineer production-ready distributed systems, scalable data 
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
@@ -63,7 +63,7 @@ In the industry, I engineer production-ready distributed systems, scalable data 
       <br>GCP
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/amazon_webservices/amazon_webservices-icon.svg" width="48" height="48" alt="AWS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -89,7 +89,7 @@ In the industry, I engineer production-ready distributed systems, scalable data 
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=parisdbravo&show_icons=true&theme=tokyonight&locale=en" alt="Paris GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=parisdbravo&show_icons=true&theme=tokyonight&locale=en" alt="Paris GitHub Stats" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parisdbravo&theme=tokyonight'" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parisdbravo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Paris Top Languages" />
