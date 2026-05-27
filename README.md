@@ -81,11 +81,3 @@ In the industry, I engineer production-ready distributed systems, scalable data 
   </tr>
 </table>
 
----
-
-### 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/parisdbravo?label=Followers&style=for-the-badge&color=005088&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/parisdbravo?label=Total%20Stars&style=for-the-badge&color=0e75b6&logo=github" alt="Stars" />
-</div>
